@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Flutter developer 
+I am Flutter developer and a UI UX designer 
 
 <!--
 **CodeByPrime/CodeByPrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
