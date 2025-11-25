@@ -1,5 +1,9 @@
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+
 # 💫 About Me:
- Hi, I'm Prime Tactics<br><br>Full‑Stack Engineer | Mobile App Developer | AI Integrator | Ready to Hire<br>
+ Hi, I'm Usman Siddique **(Prime Code Labs)** <br><br>Full‑Stack Engineer | Mobile App Developer | AI Integrator | Ready to Hire<br>
  
 
 **I build intelligent, production-ready applications using modern full‑stack technologies — from Flutter mobile apps, Next.js frontends, and Node.js backends to AI agents, RAG systems, vector databases, and automation pipelines.**
