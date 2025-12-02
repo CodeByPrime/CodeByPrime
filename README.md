@@ -86,12 +86,15 @@ I love solving real-world problems with clean architecture, scalable engineering
            
            
            
- #**DevOps & Infrastructure**
+ # **DevOps & Infrastructure**
 
  **Docker**
    
  **AWS**
-           CI/CD Pipelines<br>
+
+ **Vercel**
+ 
+ **CI/CD Pipelines**
            <br>Sentry Monitoring<br>
            <br>Jest & Supertest for automated testing<br><br>
  <br>🎯 Professional Focus<br><br>Building scalable backend systems with clean architecture.<br><br>Delivering high-quality Flutter apps with maintainable structure.<br><br>Implementing AI-driven features (RAG, assistants, embeddings).<br><br>Deploying reliable production systems using Docker + AWS.<br><br>Working with clients and teams to turn ideas into production-ready products.<br><br>🛠️ Current Work & Projects<br><br><br>COVID‑19 Tracker App (Flutter)<br><br>A clean and responsive dashboard app built with modern state management.<br><br>Tech: Flutter, REST API, Riverpod/Bloc<br><br><br>🌟 Why Work With Me<br><br>I ship clean, maintainable, and scalable code.<br><br>Strong understanding of full development lifecycle: design → build → deploy → monitor.<br><br>Experience in AI-powered product development.<br><br>Comfortable working in fast-paced, production-focused environments.<br><br>Available for freelance work, collaborations, and long-term projects.<br><br>📬 Connect With Me<br><br>https://www.linkedin.com/in/usman-siddique-725213379?utm_source=share_via&utm_content=profile&utm_medium=member_android<br>https://youtube.com/@primecodelabs?si=HRfs-sZ6THyzIWLF<br><br>https://www.facebook.com/share/1SZ9zAqswL/<br>https://www.instagram.com/prime_devs_solutions?igsh=ZmRlZ3RpdTBiY3d3<br><br><br>If you're looking for an engineer who can take a project from concept → architecture → UI → backend → deployment, I’d be happy to talk.<br>
