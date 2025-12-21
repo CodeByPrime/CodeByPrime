@@ -57,7 +57,9 @@ I love solving real-world problems with clean architecture, scalable engineering
 **Node.js + Express.js**
 
 
- **GraphQL & tRPC**
+ **tRPC Api**
+
+ **Webhooks**
  
  **Prisma ORM**
  
@@ -72,6 +74,8 @@ I love solving real-world problems with clean architecture, scalable engineering
  **Pino/Winston logging**
 
 **Grafana(Absolue Analytics)**
+
+**NATS Jetstream**
  
 # **AI, Automation & Intelligence Layer**
                               
@@ -84,7 +88,7 @@ I love solving real-world problems with clean architecture, scalable engineering
 **Vercel AI SDK**
 
 
-**BGE-Embeddings**
+**Embeddings**
 
 
 **Vector Databases for RAG systems**
@@ -113,7 +117,11 @@ I love solving real-world problems with clean architecture, scalable engineering
     
 **Jest & Supertest for automated testing**
 
-#**Payment and Subscription Gateway**
+# **Payment and Subscription Gateway**
+
+**Stripe**
+
+**Paypal**
 
 
            
