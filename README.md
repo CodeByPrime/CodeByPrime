@@ -24,13 +24,13 @@ I love solving real-world problems with clean architecture, scalable engineering
 
  # **Introduction**
 
-**Full‑stack AI engineer focused on mobile, web, backend, and AI pipelines**
+**Full‑stack  developer focused on mobile, web, backend, and AI pipelines**
 
 
-**Build AI assistants, RAG systems, and LLM‑powered features**
+**Experince with  with AI integrtion, such as semantic search,automation and LLM powered features.**
 
 
-**Experience with production systems, Docker, CI/CD & AWS and VPC**
+**Familiar with production systems, Docker, CI/CD & AWS and VPC**
 
 
 **Currently open for freelance work, collaborations, and hiring opportunities**
