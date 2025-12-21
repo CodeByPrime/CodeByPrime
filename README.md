@@ -3,10 +3,13 @@
 
 
 # **💫 About Me:**
- Hi, I'm Usman Siddique **(Prime Code Labs)** <br><br>Full‑Stack Engineer | Mobile App Developer | AI Integrator | Ready to Hire<br>
+ Hi, I'm Usman Siddique **(Prime Code Labs)** <br>
+
+ 
+ **Full‑Stack Engineer | Mobile App Developer | AI Integrator | AI Automation**
  
 
-**I build intelligent, production-ready applications using modern full‑stack technologies — from Flutter mobile apps, Next.js frontends, and Node.js backends to AI agents, RAG systems, vector databases, and automation pipelines.**
+**I build modern, production-ready applications using modern full‑stack technologies — including Flutter mobile apps, Next.js frontends, and Node.js backends with AI integrtion, such as semantic search,automation and LLM powered features.**
 
 I love solving real-world problems with clean architecture, scalable engineering, and AI-first thinking.<br>
  <br>
